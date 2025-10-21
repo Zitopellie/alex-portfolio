@@ -10,14 +10,16 @@ function Activities() {
       items: [
         'Led my university’s Game Development community (2023/2024), organized workshops, showcases, and onboarding programs that doubled membership and provided essential resources for aspiring developers.',
         'Orchestrated Africa’s largest student game development event with over 100 attendees, featured industry talks, and distributed 50+ offline learning courses to support students with limited internet access, ensuring the growth and continuity of the community beyond my tenure.'
-      ]
+      ],
+      link: 'https://www.linkedin.com/posts/alex-omidire-069473218_unityengine-unrealengine-epicgames-activity-7126550857273196544-AwrG/'
     },
     {
       number: '02',
       title: 'Game Jam Organizer & Participant',
       items: [
         'Co-hosted, organized, and competed in multiple Game Jams (including Global Game Jam, GameJam Plus, and Africa Comicade Game Jam), mentored teams, and delivered playable prototypes under tight time constraints.'
-      ]
+      ],
+      link: 'https://www.linkedin.com/posts/alex-omidire-069473218_another-successful-global-game-jam-2024-has-activity-7158349392276566017-lyMe/'
     },
     {
       number: '03',
@@ -133,6 +135,16 @@ function Activities() {
                         </p>
                       ))}
                     </div>
+                    {activity?.link && (
+                      <a
+                        href={activity.link}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="inline-block mt-4 text-blue-400 hover:text-blue-300 transition-colors underline underline-offset-2"
+                      >
+                        {activity.link}
+                      </a>
+                    )}
                   </div>
 
                   {/* Number */}

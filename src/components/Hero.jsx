@@ -15,7 +15,7 @@ function Hero() {
                 Gameplay Programmer | Esports Program Manager
               </h2>
               
-              <div className="pt-4">
+              {/* <div className="pt-4">
                 <p className="text-white mb-4">Currently employed at</p>
                 <div className="flex items-center gap-3">
                   <img 
@@ -24,7 +24,7 @@ function Hero() {
                     className="h-14"
                   />
                 </div>
-              </div>
+              </div> */}
             </div>
   
             {/* Right Side - Profile Image */}

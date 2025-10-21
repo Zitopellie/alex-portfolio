@@ -14,7 +14,7 @@ function About() {
             {/* Column 2 - First Bio Section */}
             <div className="lg:col-span-4">
               <p className="text-white leading-relaxed mb-6 font-light">
-              I’m a Gameplay Programmer with a background in Computer Engineering and over 5 years of experience developing games using Unreal Engine, Unity, and Unreal Editor for Fortnite (UEFN).
+              I’m a Gameplay Programmer with a background in Computer Engineering and extensive experience developing games using Unreal Engine, Unity, and Unreal Editor for Fortnite (UEFN).
               </p>
               <p className="text-white leading-relaxed mb-8 font-light">
               I’ve contributed to the development and release of more than five shipped titles across AA and indie projects, specializing in gameplay architecture, systems design, performance optimization, and team mentorship.
@@ -34,7 +34,7 @@ function About() {
             {/* Column 3 - Second Bio Section */}
             <div className="lg:col-span-6">
               <p className="text-white leading-relaxed mb-8 font-light">
-              Beyond game development, I’m passionate about building the Nigerian gaming community. I organize ESport competitions across Nigerian universities and advocate for the growth and recognition of local gaming talent.
+              Beyond game development, I’m passionate about building the Nigerian gaming community. I organize Esports competitions across Nigerian universities and advocate for the growth and recognition of local gaming talent.
               </p>
             </div>
   
