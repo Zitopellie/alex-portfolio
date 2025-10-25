@@ -9,20 +9,13 @@ function Activities() {
       title: 'Activities',
       items: [
         'Led my university’s Game Development community (2023/2024), organized workshops, showcases, and onboarding programs that doubled membership and provided essential resources for aspiring developers.',
-        'Orchestrated Africa’s largest student game development event with over 100 attendees, featured industry talks, and distributed 50+ offline learning courses to support students with limited internet access, ensuring the growth and continuity of the community beyond my tenure.'
+        'Orchestrated Africa’s largest student game development event with over 100 attendees, featured industry talks, and distributed 50+ offline learning courses to support students with limited internet access, ensuring the growth and continuity of the community beyond my tenure.',
+        'Co-hosted, organized, and competed in multiple Game Jams (including Global Game Jam, GameJam Plus, and Africa Comicade Game Jam), mentored teams, and delivered playable prototypes under tight time constraints.'
       ],
       link: 'https://www.linkedin.com/posts/alex-omidire-069473218_unityengine-unrealengine-epicgames-activity-7126550857273196544-AwrG/'
     },
     {
       number: '02',
-      title: 'Game Jam Organizer & Participant',
-      items: [
-        'Co-hosted, organized, and competed in multiple Game Jams (including Global Game Jam, GameJam Plus, and Africa Comicade Game Jam), mentored teams, and delivered playable prototypes under tight time constraints.'
-      ],
-      link: 'https://www.linkedin.com/posts/alex-omidire-069473218_another-successful-global-game-jam-2024-has-activity-7158349392276566017-lyMe/'
-    },
-    {
-      number: '03',
       title: 'Gameplay Programmer',
       items: [
         'Designed and implemented interactive gameplay mechanics in close collaboration with designers; authored C++ and Blueprint code to create reliable, engaging systems.',
@@ -31,13 +24,14 @@ function Activities() {
       ]
     },
     {
-      number: '04',
+      number: '03',
       title: 'Esports Program Manager',
       items: [
         'Planned and ran university and regional esports tournaments, managed logistics, schedules, rulesets, registration, and match operations to deliver smooth competitive events.',
         'Oversaw live streaming, content promotion, and social media outreach to grow event viewership and community participation.',
         'Built relationships with universities, student groups, and sponsors to create competitive pathways, support player development, and spotlight regional talent.'
-      ]
+      ],
+      link: 'https://www.linkedin.com/posts/alex-omidire-069473218_gamestorm-esports-codm-activity-7312889255024852994-px6n'
     }
   ]
   
