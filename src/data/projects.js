@@ -221,12 +221,13 @@ export const projectsData = [
     imageLink: "https://res.cloudinary.com/di6ow3awo/image/upload/v1760351237/MauMau_zksrym.jpg",
     gameCategories: ["RTS", "Strategy"],
     gameEngine: "Unity Engine",
-    workDone: [
-      "Developed multiplayer gameplay systems using GraphQL for real-time player data updates.",
-      "Implemented reward and progression systems to boost player retention.",
-      "Integrated responsive UI across multiple device types.",
-      "Optimized performance for mobile builds within Unity’s mobile pipeline.",
-      "Led a small development team of programmers and designers to meet project milestones."
+      workDone: [
+        "Led the team at Game Jam Plus 2023, where the project earned second place in Africa, demonstrating strong execution, teamwork, and innovation.",
+        "Designed and implemented complete gameplay logic and core mechanics for the RTS mobile game, handling all gameplay systems from concept to execution.",
+         "Developed real - time strategy(RTS) features, including unit control, resource management, AI behavior, and combat systems using efficient mobile - optimized workflows.",
+         "Prototyped and iterated gameplay systems, ensuring balanced mechanics and smooth user experience across devices.",
+         "Optimized performance for mobile platforms, improving responsiveness, frame rate, and memory usage.",
+        "Led and coordinated a multidisciplinary team, managing designers, artists, and programmers to ensure alignment and effective communication throughout development."
     ],
     technologiesUsed: ["Unity Engine", "C#", "PlasticSCM"],
     teamCollaboration: "Led a team of gameplay programmers and UI designers to ensure high-quality, timely delivery.",
@@ -245,10 +246,9 @@ export const projectsData = [
     gameCategories: ["RPG", "Shooter"],
     gameEngine: "Unity Engine",
     workDone: [
-      "Implemented core gameplay programming and multiplayer features using C#.",
-      "Prototyped progression systems to enhance engagement.",
-      "Collaborated with gameplay programmers to ensure consistent system integration.",
-      "Assisted in optimization and testing for stability and performance."
+        "Developed core gameplay systems and progression features using C#.",
+        "Collaborated with the team to ensure consistent gameplay experience.",
+        "Optimized performance and stability across builds."
     ],
     technologiesUsed: ["Unity Engine", "C#", "PlasticSCM"],
     teamCollaboration: "Worked with gameplay programmers and UI designers to deliver the project on time with consistent communication.",
@@ -295,7 +295,7 @@ export const projectsData = [
     ],
     technologiesUsed: ["Unity Engine", "C#", "Photon Unity Networking"],
     teamCollaboration: "Independent project focused on improving multiplayer development proficiency.",
-    youtubeLink: "https://youtu.be/PBUNmFx0a1c",
+    youtubeLink: "https://youtu.be/761ojYgRJC4",
     youtubeDescription: "A fast-paced 2D multiplayer shooter prototype.",
     platform: ["PC"],
     employer: "Personal Project",
@@ -304,7 +304,7 @@ export const projectsData = [
   },
   {
     id: 12,
-    gameName: "1V1 UEFN Map",
+    gameName: "Pure 1V1",
     role: "UEFN Developer",
     imageLink: "https://res.cloudinary.com/di6ow3awo/image/upload/v1760351235/UEFN_kz3ycw.png",
     gameCategories: ["1v1", "Shooter", "Fortnite Creative"],
@@ -318,12 +318,12 @@ export const projectsData = [
     ],
     technologiesUsed: ["Unreal Editor for Fortnite (UEFN)", "Verse", "Fortnite Devices"],
     teamCollaboration: "Worked collaboratively within a UEFN creator team to test and iterate on gameplay balance, map design, and player experience.",
-    youtubeLink: "https://youtu.be/mh4VqQsju4o",
+    youtubeLink: "https://youtu.be/rDZsBIl9N3w",
     youtubeDescription: "Fast-paced 1v1 Fortnite map built in UEFN for competitive matches.",
-    platform: ["PC", "Console"],
-    employer: "Personal Project",
-    employerLink: null,
-    gamebuild: "https://www.fortnite.com/@yourname/1v1-map" // Placeholder — replace with actual Fortnite URL if available
+    platform: ["Mobile", "PC"],
+    employer: "4thstudios",
+    employerLink: "https://www.fortnite.com/@4thstudios?lang=en-US",
+     gamebuild: "https://www.fortnite.com/@4thstudios/1016-4556-0514?lang=en-US" // Placeholder — replace with actual Fortnite URL if available
   },
   {
     id: 13,
@@ -341,9 +341,9 @@ export const projectsData = [
     ],
     technologiesUsed: ["Unreal Editor for Fortnite (UEFN)", "Verse", "Fortnite Devices"],
     teamCollaboration: "Collaborated with a creative team to fine-tune gameplay flow, player feedback, and difficulty scaling for optimal player engagement.",
-    youtubeLink: "https://youtu.be/mh4VqQsju4o",
+    youtubeLink: "https://youtu.be/PBUNmFx0a1c",
     youtubeDescription: "A Fortnite UEFN recreation of the iconic Squid Game Glass Bridge challenge.",
-    platform: ["PC", "Console"],
+      platform: ["Mobile", "PC"],
     employer: "Personal Project",
     employerLink: null,
     gamebuild: null 
