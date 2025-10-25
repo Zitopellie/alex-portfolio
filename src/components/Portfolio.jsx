@@ -7,7 +7,8 @@ function Portfolio() {
   const [filteredProjects, setFilteredProjects] = useState(projectsData)
   const [animating, setAnimating] = useState(false)
 
-  const filters = ['See All', 'Unreal Engine', 'Unity Engine', 'UEFN', 'Other']
+  // const filters = ['See All', 'Unreal Engine', 'Unity Engine', 'UEFN', 'Other']
+  const filters = ['See All', 'Unreal Engine', 'Unity Engine', 'UEFN']
 
   const getFilteredProjects = (filter) => {
     if (filter === 'See All') return projectsData

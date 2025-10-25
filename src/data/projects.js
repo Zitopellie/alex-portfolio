@@ -233,7 +233,7 @@ export const projectsData = [
     teamCollaboration: "Led a team of gameplay programmers and UI designers to ensure high-quality, timely delivery.",
       youtubeLink: "https://youtu.be/Fh2q554HQlA",
     youtubeDescription: "An RTS mobile game set during Kenya’s Mau Mau movement against colonial forces.",
-    platform: "Mobile",
+    platform: ["Mobile"],
     employer: "Game Jam Plus 2023",
     employerLink: "https://gamejamplus.com/",
     gamebuild: "https://zitopellie.itch.io/mau-mau"
