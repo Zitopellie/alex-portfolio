@@ -231,7 +231,7 @@ export const projectsData = [
     ],
     technologiesUsed: ["Unity Engine", "C#", "PlasticSCM"],
     teamCollaboration: "Led a team of gameplay programmers and UI designers to ensure high-quality, timely delivery.",
-    youtubeLink: "https://youtube.com/shorts/HMQ1vH3z9mE?feature=share",
+      youtubeLink: "https://youtu.be/Fh2q554HQlA",
     youtubeDescription: "An RTS mobile game set during Kenya’s Mau Mau movement against colonial forces.",
     platform: "Mobile",
     employer: "Game Jam Plus 2023",
