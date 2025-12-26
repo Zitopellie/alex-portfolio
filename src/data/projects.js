@@ -107,7 +107,7 @@ export const projectsData = [
     technologiesUsed: ["Unreal Engine", "C++", "Blueprints", "Steam Subsystem", "Rider", "Visual Studio"],
     teamCollaboration:
       "Served as technical lead and gameplay programmer, coordinating team efforts, reviewing deliverables, and mentoring collaborators while maintaining milestone alignment.",
-    youtubeLink: "https://youtu.be/jpKzHgLVqYQ",
+    youtubeLink: "https://youtu.be/_99ClYCIwYY",
     youtubeDescription:
       "A chaotic 4v2 chase game where Critters scavenge supplies and escape from ferocious Kollectors in high-stakes, multiplayer action.",
     platform: ["PC"],
@@ -323,7 +323,7 @@ export const projectsData = [
     platform: ["Mobile", "PC"],
     employer: "4thstudios",
     employerLink: "https://www.fortnite.com/@4thstudios?lang=en-US",
-     gamebuild: "https://www.fortnite.com/@4thstudios/1016-4556-0514?lang=en-US" // Placeholder — replace with actual Fortnite URL if available
+     gamebuild: "https://www.fortnite.com/@4thstudios?lang=en-US"
   },
   {
     id: 13,

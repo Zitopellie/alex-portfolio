@@ -136,7 +136,7 @@ function Activities() {
                         rel="noopener noreferrer"
                         className="inline-block mt-4 text-blue-400 hover:text-blue-300 transition-colors underline underline-offset-2"
                       >
-                        {activity.link}
+                        LinkedIn Post
                       </a>
                     )}
                   </div>

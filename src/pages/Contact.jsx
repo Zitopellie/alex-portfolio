@@ -94,7 +94,7 @@ function Contact() {
 
       <div className="flex space-x-4">
         <a
-          href="https://www.linkedin.com/in/alex-omidire-069473218"
+          href="https://www.linkedin.com/in/alex-omidire"
           target="_blank"
           rel="noopener noreferrer"
           className="text-white text-2xl hover:text-white/70 transition-colors"

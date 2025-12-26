@@ -38,7 +38,7 @@ function Footer() {
               <ul className="flex justify-center space-x-8 mb-8">
                 <li>
                   <a
-                    href="https://www.linkedin.com/in/alex-omidire-069473218"
+                    href="https://www.linkedin.com/in/alex-omidire"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-white/60 text-xs font-medium uppercase tracking-wider hover:text-white transition-colors"

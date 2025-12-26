@@ -7,7 +7,7 @@ function Header() {
   const navItems = [
     { label: 'HOME', href: '/', isRoute: true },
     { label: 'PROJECTS', href: '/#projects' },
-    { label: 'LINKEDIN', href: 'https://www.linkedin.com/in/alex-omidire-069473218', external: true },
+    { label: 'LINKEDIN', href: 'https://www.linkedin.com/in/alex-omidire', external: true },
     { label: 'GITHUB', href: 'https://github.com/Zitopellie', external: true },
     { label: 'RESUME', href: 'https://docs.google.com/document/d/12Y6SI1X3vDdgXy5hA6LOu4XA9BaUUCjQk3zibYul688/', external: true },
     { label: 'CONTACT ME', href: '/contact', isRoute: true }
